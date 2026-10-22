@@ -2,7 +2,7 @@
 
 > **Scan smarter. Fix faster. Stay secure.**
 
-A lightweight, browser-based web security scanner built with [Streamlit](https://streamlit.io). Point it at any public URL and get an instant, beginner-friendly security report covering HTTPS, HTTP security headers, cookies, SSL/TLS certificates, and server information disclosure — no installation of external security tools required.
+A lightweight, browser-based web security scanner built with [Streamlit](https://streamlit.io) and developed with assistance from [IBM Bob](https://www.ibm.com/). Point it at any public URL and get an instant, beginner-friendly security report covering HTTPS, HTTP security headers, cookies, SSL/TLS certificates, and server information disclosure — no installation of external security tools required.
 
 ---
 
